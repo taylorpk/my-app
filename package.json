@@ -1,6 +1,6 @@
 {
-  "name": "robofriends-app",
-  "homepage": "https://taylorpk.github.io/robofriends-app",
+  "name": "my-app",
+  "homepage": "https://taylorpk.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
